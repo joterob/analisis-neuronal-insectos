@@ -11,7 +11,7 @@ Aquí queda todo mi trabajo del semestre: talleres, laboratorios y proyecto fina
 
 | Carpeta | Contenido |
 |---|---|
-| `talleres/` | cuadernos de los talleres calificables|
+| `talleres/taller2_estudiante.ipynb` | cuadernos de los talleres calificables|
 | `practicas/` | cuadernos de los talleres no calificables hechos en laboratorio o en clase |
 | `/prompts/` | bitácoras de los prompts usados en cada sesión (un archivo de prompts por taller,lab|
 | `proyecto_final/` | pipeline, figuras y póster del proyecto final |
