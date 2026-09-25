@@ -1,0 +1,1 @@
+En la carpeta del proyecto, esta subido el trabajo de la sesion de laboratorio y un jupyter con lo que pide el proyecto.
